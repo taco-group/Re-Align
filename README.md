@@ -35,7 +35,7 @@
 1. Create a virtual environment with Conda and activate.
 ```Shell
 conda create -n re-align python=3.10 -y
-conda activate stic
+conda activate re-align
 ```
 
 2. Install packages
