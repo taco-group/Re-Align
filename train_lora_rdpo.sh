@@ -16,7 +16,6 @@ deepspeed --include=localhost:2,3 --master_port 60000 train_rdpo.py \
     --warmup_ratio 0.03 \
     --lr_scheduler_type "cosine" \
     --bf16 True \
-    --run_name "llava-vicuna-13b-rdpo-lora-$lr-beta-$beta-new-qkvo" \
     --lisa_enable False \
     --lora_enable True \
     --beta $beta \

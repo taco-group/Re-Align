@@ -86,7 +86,6 @@ unzip train2014.zip
       --warmup_ratio 0.03 \
       --lr_scheduler_type "cosine" \
       --bf16 True \
-      --run_name "llava-vicuna-7b-rdpo-lora-1e-6-beta-0.1" \
       --lisa_enable False \
       --lora_enable True \
       --beta 0.1 \
