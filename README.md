@@ -1,5 +1,5 @@
 <p align="center" width="60%">
-<img src="assets/pics/logo.png" alt="Re-Align" style="width: 35%; min-width: 200px; display: block; margin: auto; background-color: transparent;">
+<img src="assets/pics/logo-realign.png" alt="Re-Align" style="width: 35%; min-width: 200px; display: block; margin: auto; background-color: transparent;">
 </p>
 
 <div id="top" align="center">
