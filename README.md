@@ -28,7 +28,7 @@
 - **Alignment via rDPO:** Our proposed rDPO objective—an extension of DPO that includes an additional visual preference optimization objective, further enhancing the alignment process with valuable visual preference signals.
 
 ### News
-- **[2025/2/18]** 🔥We released **Re-Align**, a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models. Explore our [paper](https://arxiv.org/abs/2412.15206) and [website](https://taco-group.github.io/Re-Align/) for more details.
+- **[2025/2/18]** 🔥We released **Re-Align**, a novel alignment framework that leverages image retrieval to mitigate hallucinations in Vision Language Models. Explore our [paper](https://arxiv.org/abs/2502.13146) and [website](https://taco-group.github.io/Re-Align/) for more details.
 
 ## Installation
 
