@@ -4,9 +4,9 @@
 
 <div id="top" align="center">
 
-[![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://taco-group.github.io/AutoTrust/)
+[![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://taco-group.github.io/Re-Align/)
 ![Code License](https://img.shields.io/badge/Code%20License-Apache%202.0-brightgreen)
-[![arXiv](https://img.shields.io/badge/arXiv-2412.15206-b31b1b.svg)](https://arxiv.org/abs/2412.15206)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.15206-b31b1b.svg)](https://arxiv.org/abs/2502.13146)
 
 </div>
 
@@ -99,12 +99,12 @@ If you use our code or extend our work, please consider citing our paper:
 
 ```bibtex
 
-@article{re-align,
-	author = {},
-	title = {},
+@article{Xing2025Feb,
+	author = {Xing, Shuo and Wang, Yuping and Li, Peiran and Bai, Ruizheng and Wang, Yueqi and Qian, Chengxuan and Yao, Huaxiu and Tu, Zhengzhong},
+	title = {{Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization}},
 	journal = {arXiv},
 	year = {2025},
-	month = ,
-	eprint = {},
-	doi = {}
+	month = feb,
+	eprint = {2502.13146},
+	doi = {10.48550/arXiv.2502.13146}
 }
