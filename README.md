@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://taco-group.github.io/Re-Align/)
 ![Code License](https://img.shields.io/badge/Code%20License-Apache%202.0-brightgreen)
-[![arXiv](https://img.shields.io/badge/arXiv-2412.15206-b31b1b.svg)](https://arxiv.org/abs/2502.13146)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.13146-b31b1b.svg)](https://arxiv.org/abs/2502.13146)
 
 </div>
 
