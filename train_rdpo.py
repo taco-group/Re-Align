@@ -157,6 +157,11 @@ class TrainingArguments(transformers.TrainingArguments):
         metadata={"help": "todo"}
     )
 
+    sft_weight: float = field(
+        default=0.0,
+        metadata={"help": "todo"}
+    )
+
 
 
 def maybe_zero_3(param, ignore_status=False, name=None):
